@@ -368,7 +368,7 @@ p {
 * LESS
 * Rework
 * PostCSS
-* cssnextx
+* cssnext
 
 ---
 
