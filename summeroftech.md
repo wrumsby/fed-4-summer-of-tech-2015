@@ -270,7 +270,7 @@ result = input.map((n) -> n * n)
 ```typescript
 var input:number[] = [1, 2, 3, 4, 5];
 
-var result = input.map(function (n: number) {
+var result = input.map((n: number) => {
   return n * n;
 });
 ```
