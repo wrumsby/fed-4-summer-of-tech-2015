@@ -124,7 +124,7 @@ New HTML, CSS & JavaScript features that make the web a better platform for writ
 
 By many measures the world's most popular programming language.
 
-* Relased in 1995
+* Released in 1995
 * Renaissance started around 2006-2007
 * Rise of Node.js from 2010-2011
 * In the browser allows you to change HTML and the CSS applied *after* page load
