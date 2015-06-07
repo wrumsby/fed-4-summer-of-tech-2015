@@ -1,3 +1,4 @@
-# Front End Development for Summer of Tech
+# Front End Development
+## For Summer of Tech 2015
 
 PDF created using [Deckset](http://www.decksetapp.com/).
