@@ -771,7 +771,7 @@ It's not a binary choice and web technology makes it easy to try something.
 
 Immutability
 
-Referential integrity
+Referential transparency
 
 Testability
 
